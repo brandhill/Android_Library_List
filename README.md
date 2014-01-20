@@ -40,7 +40,8 @@ http://googlemaps.github.io/android-maps-utils/
  * AndroidStaggeredGrid 
 <br />
 https://github.com/etsy/AndroidStaggeredGrid
-
+<br />
+![image](https://raw2.github.com/brandhill/Android_Library_List/master/pictures/AndroidStaggeredGrid/AndroidStaggeredGrid.png)
 
  * Bypass takes markdown and renders it directly on Android and iOS.
 如果需要文字編排，可以使用這個
@@ -62,5 +63,10 @@ http://greendao-orm.com/
 
 * EventBus : Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 <br />
-https://github.com/greenrobot/EventBus 
+https://github.com/greenrobot/EventBus
+
+
+* Android Form EditText : 驗證輸入的文字格式
+<br />
+https://github.com/brandhill/android-edittext-validator
 
